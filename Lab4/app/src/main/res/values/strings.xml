@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cs426</string>
+    <string name="year">enter the year</string>
+    <string name="month">enter the month</string>
+    <string name="calc">calculate</string>
+    <string name="nyear">you have </string>
+    <string name="nmonth"> year and </string>
+    <string name="end">  month  </string>
+    <string name="er1">  empty </string>
+    <string name="er2">  wrong year number  </string>
+    <string name="er3">  wrong month number  </string>
+    <string name="er4">  This data havenot come yet  </string>
+    <string name="er5">  invalide or incomplete data  </string>
+</resources>

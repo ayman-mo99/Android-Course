@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">س426</string>
+    <string name="year">ادخل العام</string>
+    <string name="month">ادخل الشهر</string>
+    <string name="calc">احسب</string>
+    <string name="nyear">"انت صاحب "</string>
+    <string name="nmonth">"عام و "</string>
+    <string name="end">شهر</string>
+    <string name="er1">ادخل الارقام</string>
+    <string name="er2">رقم السنه خاطئ</string>
+    <string name="er3">رقم الشهر خاطئ</string>
+    <string name="er4">هذا التاريخ لم ياتي بعد</string>
+    <string name="er5">البيانات غير مكتمله او خاطئه</string>
+</resources>
